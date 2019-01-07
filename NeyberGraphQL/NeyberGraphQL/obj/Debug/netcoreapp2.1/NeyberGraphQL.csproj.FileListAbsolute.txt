@@ -1,0 +1,14 @@
+H:\NeyberGraphQL\NeyberGraphQL\bin\Debug\netcoreapp2.1\NeyberGraphQL.deps.json
+H:\NeyberGraphQL\NeyberGraphQL\bin\Debug\netcoreapp2.1\NeyberGraphQL.runtimeconfig.json
+H:\NeyberGraphQL\NeyberGraphQL\bin\Debug\netcoreapp2.1\NeyberGraphQL.runtimeconfig.dev.json
+H:\NeyberGraphQL\NeyberGraphQL\bin\Debug\netcoreapp2.1\NeyberGraphQL.dll
+H:\NeyberGraphQL\NeyberGraphQL\bin\Debug\netcoreapp2.1\NeyberGraphQL.pdb
+H:\NeyberGraphQL\NeyberGraphQL\obj\Debug\netcoreapp2.1\NeyberGraphQL.csprojAssemblyReference.cache
+H:\NeyberGraphQL\NeyberGraphQL\obj\Debug\netcoreapp2.1\NeyberGraphQL.csproj.CoreCompileInputs.cache
+H:\NeyberGraphQL\NeyberGraphQL\obj\Debug\netcoreapp2.1\NeyberGraphQL.RazorAssemblyInfo.cache
+H:\NeyberGraphQL\NeyberGraphQL\obj\Debug\netcoreapp2.1\NeyberGraphQL.RazorAssemblyInfo.cs
+H:\NeyberGraphQL\NeyberGraphQL\obj\Debug\netcoreapp2.1\NeyberGraphQL.AssemblyInfoInputs.cache
+H:\NeyberGraphQL\NeyberGraphQL\obj\Debug\netcoreapp2.1\NeyberGraphQL.AssemblyInfo.cs
+H:\NeyberGraphQL\NeyberGraphQL\obj\Debug\netcoreapp2.1\NeyberGraphQL.RazorTargetAssemblyInfo.cache
+H:\NeyberGraphQL\NeyberGraphQL\obj\Debug\netcoreapp2.1\NeyberGraphQL.dll
+H:\NeyberGraphQL\NeyberGraphQL\obj\Debug\netcoreapp2.1\NeyberGraphQL.pdb
